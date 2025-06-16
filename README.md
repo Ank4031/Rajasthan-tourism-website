@@ -1,6 +1,6 @@
-# Rajasthan-tourism-website
+![Screenshot 2025-06-16 110905](https://github.com/user-attachments/assets/029b0c04-391d-4799-b94a-d42136e0e083)# Rajasthan-tourism-website
 ##Look of Home page.
-![App Screenshot](![Uploading Screenshot 2025-06-16 110748.png…]()
+!(![Uploading Screenshot 2025-06-16 110814.png…]()
 )
 
 ##This is how information of some major cities has been shown on the web page.
@@ -8,9 +8,10 @@
 
 
 ##Below is the login page for the users.
-![App Screenshot](![Screenshot 2025-06-16 110852](https://github.com/user-attachments/assets/60178122-9025-47ad-a688-f117536c78c8)
+!(https://github.com/user-attachments/assets/60178122-9025-47ad-a688-f117536c78c8)
 )
 
 ##This is the registration page for the new users.
-![Uploading Screenshot 2025-06-16 110905.png…]()
+![Screenshot 2025-06-16 110905](https://github.com/user-attachments/assets/f7c19dfa-6a25-4871-8b46-dddb21899374)
+
 
