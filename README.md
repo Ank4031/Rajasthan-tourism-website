@@ -9,10 +9,11 @@ This Project is made using Django so the zip of entire project is provided and a
 
 
 ## Below is the login page for the users.
-![Login Page](https://github.com/user-attachments/assets/60178122-9025-47ad-a688-f117536c78c8)
+<img width="2866" height="1316" alt="Screenshot 2025-07-17 075129" src="https://github.com/user-attachments/assets/c1a733b3-868e-431e-b731-26766013f0bf" />
 
 
 ## This is the registration page for the new users.
-![Registeration Page](https://github.com/user-attachments/assets/f7c19dfa-6a25-4871-8b46-dddb21899374)
+<img width="2855" height="1390" alt="Screenshot 2025-07-17 075118" src="https://github.com/user-attachments/assets/a25a5db3-f5dd-4540-9de9-b0d1969a0b9e" />
+
 
 
